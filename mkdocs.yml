@@ -1,0 +1,9 @@
+site_name: BigM - Huong dan su dung
+
+nav:
+  - Home: "index.md"
+  - "Nguoi mua":
+      - "Tai khoan": "buyer/user.md" # cho tai khoan nguoi mua
+
+theme:
+  name: gitbook
