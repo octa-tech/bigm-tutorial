@@ -6,4 +6,4 @@ nav:
       - "Tai khoan": "buyer/user.md" # cho tai khoan nguoi mua
 
 theme:
-  name: gitbook
+  name: material
