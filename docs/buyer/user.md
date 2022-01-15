@@ -1,3 +1,3 @@
-# Tai khoan nguoi mua
+# Tài khoản người mua
 
-## tao tao khoan moi
+## Tạo tài khoản mới

@@ -1,9 +1,28 @@
-site_name: BigM - Huong dan su dung
+site_name: BigM - Hướng dẫn sử dụng
 
 nav:
-  - Home: "index.md"
-  - "Nguoi mua":
-      - "Tai khoan": "buyer/user.md" # cho tai khoan nguoi mua
+  - "Trang chủ": "index.md"
+  - "Tài khoản":
+      - "Tài khoản người mua": buyer/user.md # cho tai khoan nguoi mua
+      - "Tài khoản người bán": buyer/user/seller_acc.md
+  - "Sản phẩm": 
+      - "Tạo/Sửa sản phẩm": products/edit.md
+  - "Cửa hàng":
+      - "Tạo sửa cửa hàng": shops/edit.md
 
 theme:
   name: material
+  language: vi
+  features:
+    - navigation.instant
+    - navigation.tabs
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    primary: light blue
+    accent: deep orange
+
+extra: 
+  homepage: https://bigm.vn
+  version: 
+    provider: mike
