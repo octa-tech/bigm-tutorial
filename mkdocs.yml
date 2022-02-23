@@ -4,9 +4,6 @@ nav:
   - Home: "shop/home.md"
   - Khách hàng: "shop/buyer.md"
 
-
-   
-
 theme:
   name: material
   features:

@@ -49,7 +49,7 @@ Khi Người bán hoặc Người mua đã có tài khoản thì nhấn nút <st
 <p></p>
 Khi Bạn quên mật khẩu, Bạn có thể lấy lại mật khẩu bằng cách nhấn vào  <strong>[QUÊN MẬT KHẨU](<https://bigm.vn/auth/reset-password>)</strong> và thực hiện nhập thông tin theo các bước sau:
 <p></p>
-![](../images/resetpass.png)
+![](../images/reset_pass.png)
 <p></p>
 <ul>
     <li>Số điện thoại</li>
