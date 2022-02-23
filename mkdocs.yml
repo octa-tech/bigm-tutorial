@@ -1,28 +1,16 @@
-site_name: BigM - Hướng dẫn sử dụng
+site_name: BIGM HƯỚNG DẪN SỬ DỤNG
 
 nav:
-  - "Trang chủ": "index.md"
-  - "Tài khoản":
-      - "Tài khoản người mua": buyer/user.md # cho tai khoan nguoi mua
-      - "Tài khoản người bán": buyer/user/seller_acc.md
-  - "Sản phẩm": 
-      - "Tạo/Sửa sản phẩm": products/edit.md
-  - "Cửa hàng":
-      - "Tạo sửa cửa hàng": shops/edit.md
+  - Home: "shop/home.md"
+  - Khách hàng: "shop/buyer.md"
+
+
+   
 
 theme:
   name: material
-  language: vi
   features:
     - navigation.instant
     - navigation.tabs
-  logo: assets/logo.png
-  favicon: assets/logo.png
-  palette:
-    primary: light blue
-    accent: deep orange
-
-extra: 
-  homepage: https://bigm.vn
-  version: 
-    provider: mike
+ 
+    
