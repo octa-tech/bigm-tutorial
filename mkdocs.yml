@@ -2,12 +2,23 @@ site_name: BIGM HƯỚNG DẪN SỬ DỤNG
 
 nav:
   - Home: "shop/home.md"
-  - Khách hàng: "shop/buyer.md"
+  # - Khách hàng: "shop/buyer.md"
+  - Cửa hàng:
+      - Quản lý cửa hàng: shop/shop.md
+      - Quản lý sản phẩm:
+          - Sản phẩm: shop/products/product.md
+          - Nhóm sản phẩm: shop/products/group-product.md
 
 theme:
   name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  language: vi
   features:
     - navigation.instant
     - navigation.tabs
- 
-    
+
+markdown_extensions:
+  - toc:
+      permalink: True
+      separator: "_"
