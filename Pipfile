@@ -13,5 +13,3 @@ mkdocs-material-extensions = '1.0.3'
 
 [dev-packages]
 
-[requires]
-python_version = "3.8"
