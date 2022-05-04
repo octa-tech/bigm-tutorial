@@ -2,12 +2,18 @@ site_name: BIGM HƯỚNG DẪN SỬ DỤNG
 
 nav:
   - Home: "shop/home.md"
-  - Khách hàng: "shop/buyer.md"
+  # - Khách hàng: "shop/buyer.md"
+  - Người bán: 
+    - Quản lý cửa hàng:
+      - Tạo cửa hàng: "shop/create-shop.md"
+      
+
 
 theme:
   name: material
   features:
     - navigation.instant
     - navigation.tabs
- 
-    
+
+
+copyright: &copy 2021 BigM. Một sản phẩm của Octa
