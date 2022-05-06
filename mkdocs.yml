@@ -6,8 +6,8 @@ nav:
   - Người bán: 
     - Quản lý cửa hàng:
       - Tạo cửa hàng: "shop/create-shop.md"
-      
-
+      - Cập nhật cửa hàng: "shop/update-shop.md"
+      - Cập nhật hình thức thanh toán: "shop/update-payment.md"
 
 theme:
   name: material
