@@ -8,6 +8,13 @@ nav:
       - Tạo cửa hàng: "shop/create-shop.md"
       - Cập nhật cửa hàng: "shop/update-shop.md"
       - Cập nhật hình thức thanh toán: "shop/update-payment.md"
+    - Quản lý sản phẩm:
+      - Tạo sản phẩm: "product/create-pr.md"
+      - Chỉnh sửa sản phẩm: "product/update-pr.md"
+      - Tạo nhóm sản phẩm: "product/create-group.md"
+      - Cập nhật nhóm sản phẩm: "product/update-gr.md"
+    - Quản lý kiên kết bán hàng: 
+      - Tạo liên kết sản phẩm: "link/create-link.md"
 
 theme:
   name: material
