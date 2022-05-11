@@ -15,6 +15,6 @@ Bạn chưa có cửa hàng? Hãy bắt đầu ngay!
 - Địa chỉ
 - Mô tả
 
-### **Bước 3: Chọn "Lưu" để hoàn thành**
+### **Bước 3: Chọn "Lưu" để hoàn tất**
 
 ![](../images/Shop/createshopdone.png)
