@@ -5,7 +5,7 @@ Bạn chưa có cửa hàng? Hãy bắt đầu ngay!
 
 ![](../images/Shop/createshop.png) 
 
-**Bước 2: Thực hiện nhập cái thông tin:**
+**Bước 2: Thực hiện nhập cái thông tin: **
 
 - Thêm hình ảnh
 - Mã giới thiệu
