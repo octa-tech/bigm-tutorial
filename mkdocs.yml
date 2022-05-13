@@ -15,7 +15,10 @@ nav:
       - Cập nhật nhóm sản phẩm: "product/update-gr.md"
     - Quản lý kiên kết bán hàng: 
       - Tạo liên kết sản phẩm: "link/create-link.md"
-
+      - Chỉnh sửa liên kểt sản phẩm: "link/update-link.md"
+    - Quản lý khách hàng:
+      - Tạo khách hàng mới: "customer/create-cus.md"
+      
 theme:
   name: material
   logo: img/logo.png
