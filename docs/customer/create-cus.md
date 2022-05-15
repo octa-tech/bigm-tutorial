@@ -1,4 +1,4 @@
-# <span style= "color: blue; font-weight:900;""> TẠO KHÁCH HÀNG MỚI </span>
+# <span style= "color: blue; font-weight:900;"> TẠO KHÁCH HÀNG MỚI </span>
 
 ### **Bước 1: Chọn chức năng "Tạo khách hàng mới"**
 
