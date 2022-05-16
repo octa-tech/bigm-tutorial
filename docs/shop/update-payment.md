@@ -1,6 +1,6 @@
 # <span style="color: blue; font-weight:900;"> Cập nhật hình thức thanh toán </span>
 
-### **Bước 1: Chọn chức năng "Cập nhật hình thức thanh toán"**
+### **Bước 1: Chọn chức năng "Cập nhật hình thức thanh toán" (1)**
 
 ![](../images/Shop/Updatepayment.png)
 
