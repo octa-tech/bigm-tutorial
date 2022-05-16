@@ -13,7 +13,10 @@ nav:
       - Chỉnh sửa sản phẩm: "product/update-pr.md"
       - Tạo nhóm sản phẩm: "product/create-group.md"
       - Cập nhật nhóm sản phẩm: "product/update-gr.md"
-   - Quản lý khách hàng:
+    - Quản lý liên kết sản phẩm:
+      - Tạo liên kết sản phẩm: "link/create-link.md"
+      - Chỉnh sửa liên kết sản phẩm: "link/update-link.md"
+    - Quản lý khách hàng:
       - Tạo khách hàng mới: "customer/create-cus.md"
       - Chỉnh sửa thông tin khách hàng: "customer/update-cus.md"
       - Chỉnh sửa thông tin liên hệ: "customer/update-cont.md"
