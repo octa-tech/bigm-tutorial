@@ -16,3 +16,9 @@ mkdocs serve
 py -m pip install -r requirements.txt
 
 ```
+
+_* trường hợp báo  `No module named pipenv`_
+
+```
+py -m pip install pipenv
+```

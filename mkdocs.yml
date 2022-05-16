@@ -6,6 +6,26 @@ nav:
   - Người bán: 
     - Quản lý cửa hàng:
       - Tạo cửa hàng: "shop/create-shop.md"
+      - Cập nhật cửa hàng: "shop/update-shop.md"
+      - Cập nhật hình thức thanh toán: "shop/update-payment.md"
+    - Quản lý sản phẩm:
+      - Tạo sản phẩm: "product/create-pr.md"
+      - Chỉnh sửa sản phẩm: "product/update-pr.md"
+      - Tạo nhóm sản phẩm: "product/create-group.md"
+      - Cập nhật nhóm sản phẩm: "product/update-gr.md"
+    - Quản lý kiên kết bán hàng: 
+      - Tạo liên kết sản phẩm: "link/create-link.md"
+      - Chỉnh sửa liên kểt sản phẩm: "link/update-link.md"
+    - Quản lý khách hàng:
+      - Tạo khách hàng mới: "customer/create-cus.md"
+      - Chỉnh sửa thông tin khách hàng: "customer/update-cus.md"
+      - Chỉnh sửa thông tin liên hệ: "customer/update-cont.md"
+    - Quản lý đơn hàng:
+      - Xem chi tiết đơn hàng: "order/order.md"
+      - Cập nhật tình trạng liên quan của đơn hàng: "order/stt-ord.md"
+      - Tạo đơn hàng: "order/create.md"
+    - Thanh toán:
+      - Kiểm tra thông tin thanh toán: "payment/match-ord.md"
       
 theme:
   name: material
