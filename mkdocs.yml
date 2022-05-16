@@ -1,9 +1,10 @@
 site_name: BIGM HƯỚNG DẪN SỬ DỤNG
 
 nav:
-  - Home: "shop/home.md"
-  # - Khách hàng: "shop/buyer.md"
-  - Người bán: 
+  - Đăng ký: "auth/register.md"
+  - Đăng nhập: "auth/login.md"
+  - Đổi mật khẩu: "auth/reset-pass.md"
+  - Home: 
     - Quản lý cửa hàng:
       - Tạo cửa hàng: "shop/create-shop.md"
       - Cập nhật cửa hàng: "shop/update-shop.md"
