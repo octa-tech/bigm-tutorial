@@ -2,7 +2,7 @@
 
 ### **Bước 1: Chọn "Đăng ký miễn phí" **
 
-![](../images/Auth/home.png)
+![](../images/authh/home.png)
 
 ### **Bước 2: Nhập các thông tin: **
 
@@ -10,6 +10,6 @@
 - Số điện thoại
 - Mật khẩu 
 
-![](../images/Auth/register.png)
+![](../images/authh/register.png)
 
 ### **Bước 3: Chọn "Đăng ký" để hoàn tất**
