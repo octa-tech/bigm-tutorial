@@ -1,4 +1,4 @@
-# <span style= "color: blue; font-weight:900;"> TẠO LIÊN KẾT SẢN PHẨM </span>
+# <span style= "color: blue; font-weight:900;"> TẠO LIÊN KẾT SẢN PHẨM</span>
 
 ### **Bước 1: Chọn "Tạo liên kết"**
 

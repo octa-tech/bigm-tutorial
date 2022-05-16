@@ -1,4 +1,4 @@
-# <span style= "color: blue; font-weight:900;"> CHỈNH SỬA LIÊN KẾT SẢN PHẨM </SPAN>
+# <span style= "color: blue; font-weight:900;"> CHỈNH SỬA LIÊN KẾT SẢN PHẨM</span>
 
 ### **Bước 1: Chọn vào mã của liên kết mà bạn muốn chỉnh sửa**
 

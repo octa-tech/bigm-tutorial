@@ -1,6 +1,6 @@
 # <span style="color: blue; font-weight:900;"> CẬP NHẬT NHÓM SẢN PHẨM </span>
 
-### **Bước 1: Chọn vào mã nhóm sản phẩm bạn muốn chỉnh sửa
+### **Bước 1: Chọn vào mã nhóm sản phẩm bạn muốn chỉnh sửa** 
 
 ![](../images/Product/update-gr.png)
 

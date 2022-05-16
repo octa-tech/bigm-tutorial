@@ -12,4 +12,4 @@
 
 ![](../images/customer/update-cus2.png)
 
-### **Bước 3: Chọn "Lưu" để hoàn tất
+### **Bước 3: Chọn "Lưu" để hoàn tất**
