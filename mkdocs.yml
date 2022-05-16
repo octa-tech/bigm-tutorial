@@ -1,13 +1,9 @@
 site_name: BIGM HƯỚNG DẪN SỬ DỤNG
 
 nav:
-<<<<<<< HEAD
   - Đăng ký: "auth/register.md"
   - Đăng nhập: "auth/login.md"
   - Đổi mật khẩu: "auth/reset-pass.md"
-=======
-  - Đăng ký: 
->>>>>>> feature/user-doc
   - Home: 
     - Quản lý cửa hàng:
       - Tạo cửa hàng: "shop/create-shop.md"
@@ -18,15 +14,9 @@ nav:
       - Chỉnh sửa sản phẩm: "product/update-pr.md"
       - Tạo nhóm sản phẩm: "product/create-group.md"
       - Cập nhật nhóm sản phẩm: "product/update-gr.md"
-<<<<<<< HEAD
     - Quản lý liên kết sản phẩm:
       - Tạo liên kết sản phẩm: "link/create-link.md"
       - Chỉnh sửa liên kết sản phẩm: "link/update-link.md"
-=======
-    - Quản lý kiên kết bán hàng: 
-      - Tạo liên kết sản phẩm: "Link/create-link.md"
-      - Chỉnh sửa liên kểt sản phẩm: "Link/update-link.md"
->>>>>>> feature/user-doc
     - Quản lý khách hàng:
       - Tạo khách hàng mới: "customer/create-cus.md"
       - Chỉnh sửa thông tin khách hàng: "customer/update-cus.md"
