@@ -7,8 +7,6 @@ nav:
     - Quản lý cửa hàng:
       - Tạo cửa hàng: "shop/create-shop.md"
       
-
-
 theme:
   name: material
   logo: img/logo.png
@@ -17,10 +15,21 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - toc.follow
+
+plugins:
+  - search:
+      lang: 
+        - vi
+        - en
 
 markdown_extensions:
   - toc:
       permalink: True
       separator: "_"
+  - attr_list
 
-copyright: &copy 2021 BigM. Một sản phẩm của Octa
+copyright: Copyright &copy; 2021 BigM. Một sản phẩm của Octa
+
+extra:
+  generator: false
