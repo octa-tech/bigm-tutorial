@@ -3,4 +3,7 @@
 ![](./images/logo.png)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature/user-doc
