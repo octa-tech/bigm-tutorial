@@ -1,4 +1,4 @@
-# <span style= "color: blue; font-weight:900;"> Xem chi tiết đơn hàng </span>
+# <span style= "color: blue; font-weight:900;"> XEM CHI TIẾT ĐƠN HÀNG </span>
 ### **Bước 1: Chọn vào mã sản phẩm mà bạn muốn xem chi tiết **
 
  ![](../images/order/order.png)

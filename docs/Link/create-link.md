@@ -12,6 +12,6 @@
 
 ![](../images/link/creat-link2.png)
 
-### **Bước 3: Chọn "Lưu" để hoàn tất, chọn "Làm lại" để nhạp lại thông tin**
+### **Bước 3: Chọn "Lưu" để hoàn tất, chọn "Làm lại" để nhập lại thông tin**
 
 

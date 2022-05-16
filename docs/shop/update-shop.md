@@ -1,4 +1,4 @@
-# <span style="color: blue; font-weight:900;"> Cập nhật cửa hàng </span>
+# <span style="color: blue; font-weight:900;"> CẬP NHẬT CỬA HÀNG </span>
 
 ### **Bước 1: Chọn chức năng "Cập nhật cửa hàng (1)"**
 
