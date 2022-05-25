@@ -2,11 +2,11 @@
 
 ### **Bước 1: Chọn "Quên mật khẩu?"**
 
-![](../images/authh/home.png)
+![](../images/Auth/home.png)
 
 ### **Bước 2: Nhập số điện thoại của tài khoản bạn muốn đổi mật khẩu**
 
-![](../images/authh/reset-pass.png)
+![](../images/Auth/reset-pass.png)
 
 ### **Bước 3: Nhập các thông tin: **
 
@@ -14,7 +14,7 @@
 - Xác nhận mật khẩu
 - OTP: Mã otp nhận được trong điện thoại
 
-![](../images/authh/reset-pass2.png)
+![](../images/Auth/reset-pass2.png)
 
 ### **Bước 4: Chọn "Đổi mật khẩu" để hoàn tất, chọn "Hủy" để trở lại trang đăng nhập**
 
