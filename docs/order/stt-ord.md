@@ -1,4 +1,4 @@
-# <span style= "color: blue; font-weight:900;"> CẬP NHẬT TÌNH TRẠNG LIÊN QUAN ĐƠN HÀNG </span>
+# <span style= "color: blue; font-weight:900;"> CẬP NHẬT TRẠNG THÁI ĐƠN HÀNG </span>
 
 ### **Bước 1: Chọn mã đơn hàng bạn muốn cập nhật trạng thái**
 

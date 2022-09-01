@@ -1,6 +1,6 @@
 # <span style= "color: blue; font-weight:900;"> TẠO ĐƠN HÀNG </span>
 
-### **Bước 1: Chọn vào chi tiết đơn hàng, sau đó chọn vào chức năng "Tạo đơn" như hình: **
+### **Bước 1: Chọn vào chi tiết sản phẩm, sau đó chọn vào chức năng "Tạo đơn" như hình: **
 
 ![](../images/order/creat-ord.png)
 
