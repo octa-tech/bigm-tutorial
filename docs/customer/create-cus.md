@@ -8,9 +8,8 @@
 
 - Tên khách hàng
 - Số điện thoại
-- Tên liên lạc
-- Số điện thoại
 - Địa chỉ
+- Nhãn
 
 ![](../images/customer/create2.png)
 

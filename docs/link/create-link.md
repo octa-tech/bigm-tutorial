@@ -6,9 +6,10 @@
 
 ### **Bước 2: Nhập các thông tin của liên kết sản phẩm**
 
-- Tự đề của liên kết
+- Tựa đề của liên kết
 - Mô tả liên kết    
 - Chọn sản phẩm cho liên kết
+- Chọn hình ảnh hiển thị cho liên kết
 
 ![](../images/link/creat-link2.png)
 
