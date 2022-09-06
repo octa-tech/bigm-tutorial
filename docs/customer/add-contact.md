@@ -14,4 +14,4 @@
 ![](../images/customer/add-contact2.png)
 
 
-### **Bước 3: Chọn "Lưu" để hoàn tất, chọn "Làm lại" để thao tác lại**
+### **Bước 3: Chọn "Lưu" để hoàn tất**

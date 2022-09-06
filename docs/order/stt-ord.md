@@ -12,8 +12,8 @@
 ### **Sau khi bạn xác nhận đơn hàng, các nút cập nhật trạng thái tiếp theo sẽ xuất hiện: **
 
 - Giao hàng/ Đã giao
-- Đã thanh toán
-- Hoàn tất 
+- Thanh toán
+- Hoàn thành
 
 ![](../images/order/stt-ord.png)
 
