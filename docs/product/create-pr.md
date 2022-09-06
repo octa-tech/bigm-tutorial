@@ -1,13 +1,14 @@
-# <span style="color: blue; font-weight:900;"> TẠO SẢN PHẨM</span>
+# <span style="color: blue; font-weight:900;"> TẠO SẢN PHẨM </span>
 
 ### **Bước 1: Chọn "Tạo sản phẩm"** 
 
 ![](../images/Product/create.png)
+
 ### **Bước 2: Nhập các thông tin về sản phẩm**
 
 - Tên sản phẩm
-- Đơn vị
 - Giá
+- Đơn vị
 - Mô tả sản phẩm
 - Hình ảnh
 
