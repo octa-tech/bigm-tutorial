@@ -27,6 +27,8 @@ nav:
       - Cập nhật tình trạng liên quan của đơn hàng: "order/stt-ord.md"
       - Tạo đơn hàng: "order/create.md"
     - Thanh toán:
+      - Thanh toán bằng mã QR: "payment/qr-pay.md"
+      - Quản lý thanh toán: "payment/payment.md"
       - Kiểm tra thông tin thanh toán: "payment/match-ord.md"
       
 theme:
