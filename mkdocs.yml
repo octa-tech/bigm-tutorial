@@ -10,22 +10,19 @@ nav:
       - Tạo cửa hàng: "shop/create-shop.md"
       - Cập nhật cửa hàng: "shop/update-shop.md"
       - Cập nhật hình thức thanh toán: "shop/update-payment.md"
-    - Quản lý sản phẩm:
+    - Thuộc tính sản phẩm:
+      - Tạo thuộc tính: "thuoctinh/create.md"
+      - Chỉnh sửa thuộc tính: "thuoctinh/edit.md"
+    - Sản phẩm:
       - Tạo sản phẩm: "product/create-pr.md"
       - Chỉnh sửa sản phẩm: "product/update-pr.md"
-      - Tạo nhóm sản phẩm: "product/create-group.md"
-      - Cập nhật nhóm sản phẩm: "product/update-gr.md"
-    - Quản lý liên kết sản phẩm:
-      - Tạo liên kết sản phẩm: "link/create-link.md"
-      - Chỉnh sửa liên kết sản phẩm: "link/update-link.md"
-    - Quản lý khách hàng:
-      - Tạo khách hàng mới: "customer/create-cus.md"
-      - Chỉnh sửa thông tin khách hàng: "customer/update-cus.md"
-      - Chỉnh sửa thông tin liên hệ: "customer/update-cont.md"
-    - Quản lý đơn hàng:
+    - Khách hàng/Nhà cung cấp:
+      - Tạo khách hàng/ Nhà cung cấp mới: "customer/create-cus.md"
+      - Chỉnh sửa thông tin khách hàng/ Nhà cung cấp: "customer/update-cus.md"
+    - Đơn hàng:
+      - Tạo đơn hàng: "order/create.md"
       - Xem chi tiết đơn hàng: "order/order.md"
       - Cập nhật tình trạng liên quan của đơn hàng: "order/stt-ord.md"
-      - Tạo đơn hàng: "order/create.md"
     - Thanh toán:
       - Thanh toán bằng mã QR: "payment/qr-pay.md"
       - Quản lý thanh toán: "payment/payment.md"
