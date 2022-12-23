@@ -9,7 +9,7 @@
 - Xác nhận
 - Hủy
 
-### **Sau khi bạn xác nhận đơn hàng, các nút cập nhật trạng thái tiếp theo sẽ xuất hiện: **
+*Sau khi bạn xác nhận đơn hàng, các nút cập nhật trạng thái tiếp theo sẽ xuất hiện:* 
 
 - Giao hàng/ Đã giao
 - Thanh toán

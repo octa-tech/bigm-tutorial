@@ -9,4 +9,8 @@
 
 ![](../images/import/create2.png)
 
+- Chọn theo nhà cung cấp: Các sản phẩm của nhà cung cấp bạn chọn sẽ được hiển thị hết ở phía dưới lưới
+- Chọn theo sản phẩm: Nhập hàng theo sản phẩm tùy ý
+- Đơn khách đặt: Nhập hàng theo các đơn xuất được đặt trước từ khách hàng
+
 ### **Bước 3: Chọn "Lưu" để hoàn tất, chọn "Làm lại" để thao tác lại **

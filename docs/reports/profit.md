@@ -3,7 +3,7 @@
 ### **Bước 1: Chọn chức năng “Báo cáo”, chọn “Lãi lỗ” **
 
 
-### **Bước 2: Có thể chọn xem báo cáo Lãi lỗ trong tuần trước **
+### **Bước 2: Có thể chọn xem báo cáo Lãi lỗ trong tuần trước hoặc tuần này **
 
 ![](../images/Report/profit.png)
 
