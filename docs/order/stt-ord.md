@@ -1,4 +1,4 @@
-# <span style= "color: blue; font-weight:900;"> CẬP NHẬT TÌNH TRẠNG LIÊN QUAN ĐƠN HÀNG </span>
+# <span style= "color: blue; font-weight:900;"> CẬP NHẬT TRẠNG THÁI ĐƠN HÀNG </span>
 
 ### **Bước 1: Chọn mã đơn hàng bạn muốn cập nhật trạng thái**
 
@@ -12,8 +12,8 @@
 ### **Sau khi bạn xác nhận đơn hàng, các nút cập nhật trạng thái tiếp theo sẽ xuất hiện: **
 
 - Giao hàng/ Đã giao
-- Đã thanh toán
-- Hoàn tất 
+- Thanh toán
+- Hoàn thành
 
 ![](../images/order/stt-ord.png)
 

@@ -1,16 +1,15 @@
 # <span style= "color: blue; font-weight:900;"> TẠO ĐƠN HÀNG </span>
 
-### **Bước 1: Chọn vào chi tiết đơn hàng, sau đó chọn vào chức năng "Tạo đơn" như hình: **
+### **Bước 1: Chọn chức năng "Tạo đơn" ở sản phẩm muốn tạo **
 
-![](../images/order/creat-ord.png)
+![](../images/order/create-ord.png)
 
-### **Ngoài ra, còn có các chức năng như: **
- 
- - Xóa sản phẩm
- - Copy liên kết sản phẩm
- - Thêm vào giỏ hàng
-### **Bước 2: Tiếp theo bạn chọn thông tin giao hàng, thêm ghi chú (hoặc không)**
+### **Bước 2: Chọn khách hàng đã tạo trước hoặc tạo mới khách hàng **
 
- ![](../images/order/creat-ord2.png)
 
-### **Bước 3: Chọn "Đặt hàng" để hoàn tất**
+### **Bước 3: Tiếp theo bạn chọn thông tin giao hàng, thêm ghi chú (hoặc không)**
+
+![](../images/order/create-ord2.png)
+
+### **Bước 4: Chọn "Đặt hàng" để hoàn tất**
+
